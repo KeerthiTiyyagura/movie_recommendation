@@ -50,7 +50,7 @@ INSERT INTO movies (title, genre, rating) VALUES (?, ?, ?)
 ('The Wolf of Wall Street', 'Biography', 8.2),
 ('Mad Max: Fury Road', 'Action', 8.1),
 ('Black Panther', 'Action', 7.3),
-('Toy Story', 'Animation', 8.3);
+('Toy Story', 'Animation', 8.3)
     
 ])
 
